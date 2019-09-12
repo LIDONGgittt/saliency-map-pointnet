@@ -17,4 +17,8 @@ Please first refer to https://github.com/charlesq34/pointnet to train a ModelNet
 
 To compute point cloud saliency maps, use:
 
-```python saliency_map_pointnet.py```
+```python saliency_map_pointnet```
+
+To see HELP for the script:
+
+```python saliency_map_pointnet -h```

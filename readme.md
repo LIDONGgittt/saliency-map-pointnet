@@ -17,7 +17,7 @@ The accuracy of ModelNet40 model are shown below:
 ### Usage
 The code is based on Python 3.5 and Tensorflow-gpu 1.4.1.
 
-The code needs a well trained PointNet model to compute the saliency maps. Please first refer to https://github.com/charlesq34/pointnet to train a ModelNet40 model. Or, you can download a pre-trained model via https://pan.zju.edu.cn/share/f9bf6bd830f393a091f812800f and extracted it to the base dir.
+The code needs a well trained PointNet model to compute the saliency maps. Please first refer to https://github.com/charlesq34/pointnet to train a ModelNet40 model. Or, you can download a pre-trained model via https://pan.zju.edu.cn/share/f9bf6bd830f393a091f812800f and extracted it to the base directory.
 
 To compute point cloud saliency maps, use:
 

@@ -21,8 +21,10 @@ The code needs a well trained PointNet model to compute the saliency maps. Pleas
 
 To compute point cloud saliency maps, use:
 
-```python saliency_map_pointnet```
+`python saliency_map_pointnet`
 
 To see HELP for the script:
 
-```python saliency_map_pointnet -h```
+`python saliency_map_pointnet -h`
+
+*Contact lidong1994@zju.edu.cn if you have any questions.*
